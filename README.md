@@ -27,3 +27,10 @@ This is a text-based adventure game designed to showcase my understanding of fun
 
 ## 🚀 About the Project
 This project represents a solid foundation in core programming principles and is a testament to my ability to translate a creative idea into functional, well-structured code. It serves as an excellent example of my foundational skills in JavaScript development.
+
+---
+
+## 🗺️ Game Flowchart
+Here's a visual representation of the possible paths and outcomes in "Journey to the Sunken City":
+
+![Game Flowchart](flowchart.png)
