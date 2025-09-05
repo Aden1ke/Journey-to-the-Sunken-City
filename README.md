@@ -33,4 +33,4 @@ This project represents a solid foundation in core programming principles and is
 ## 🗺️ Game Flowchart
 Here's a visual representation of the possible paths and outcomes in "Journey to the Sunken City":
 
-![Game Flowchart](flowchart.png)
+![Game Flowchart](images/flowchart.png)
